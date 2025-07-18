@@ -149,7 +149,7 @@
 			<key>match</key>
 			<string>\b(?:true|false|null)\b</string>
 			<key>name</key>
-			<string>constant.language.json</string>
+			<string>constant.language.$0.json</string>
 		</dict>
 		<key>number</key>
 		<dict>
